@@ -37,9 +37,6 @@ pandas
     `pandas.Categorical` (#28300, #32079, #27932), and more
 :   Triaged issues and reviewed pull requests, helping foster/mentor the community
 
-other
-:   minor contributions to `matplotlib`, `pytest`, `featuretools`, `alibi`, `mypy`, `scikit-learn`, and `plotly`
-
 Awards
 ------
 
@@ -53,6 +50,12 @@ Coursera
 * Applied Data Science with Python Specialization (5 courses)
 
 * Deep Learning Specialization (5 courses)
+
+Kaggle
+------
+
+* 2019 Data Science Bowl: top 11% (time series, tabular data)
+* Google QUEST Q&A Labeling: top 13% (NLP)
 
 ----------------------------------------------
 <m.e.gorelli@gmail.com> • https://github.com/MarcoGorelli
