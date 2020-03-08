@@ -1,4 +1,5 @@
 *.log
 *.swo
 *.swp
-output/
+output/*
+!output/resume.pdf
