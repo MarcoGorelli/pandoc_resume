@@ -1,15 +1,6 @@
 Marco Edward Gorelli
 ============
 
-----
-
->  2 years' data science experience\
->  `pandas` maintainer (issue-triage team)\
->  Master's Degree (Oxon.)\
->  PyDataLondon assistant organiser
-
-----
-
 Education
 ---------
 
@@ -30,7 +21,7 @@ Experience
 
 **Data Scientist at Samsung R&D Institute UK**; Nov18 - now
 
-Improved accuracy of forecasts with better modelling, better feature engineering, and better feature selection. Set up continuous integration of pipeline, wrote full suite of unit tests and automated documentation. Debugged Python and C++ code, allowing for Python ML model to be reliably deployed to wearable. Gave multiple presentations at internal machine learning reading group.
+Improved accuracy of forecasts with better modelling, better feature engineering, and better feature selection. Set up continuous integration pipeline, wrote full suite of unit tests and automated documentation. Debugged Python and C++ code, allowing for Python ML model to be reliably deployed to wearable. Gave multiple presentations at internal machine learning reading group.
 
 **Data Scientist at Sedex**; Jun18 - Nov18
 
@@ -47,7 +38,7 @@ pandas
 :   Triaged issues and reviewed pull requests, helping foster/mentor the community
 
 other
-:   1-2 contributions to `matplotlib`, `pytest`, and `featuretools`
+:   minor contributions to `matplotlib`, `pytest`, `featuretools`, `alibi`, `mypy`, `scikit-learn`, and `plotly`
 
 Awards
 ------
@@ -55,6 +46,13 @@ Awards
 * Passed "Advanced Software Engineering Test (C++)" at Samsung (£500 reward)
 
 * During BSc: Foster Award for "exceptional mathematical ability", Level2 Award for highest grades
+
+Coursera
+--------
+
+* Applied Data Science with Python Specialization (5 courses)
+
+* Deep Learning Specialization (5 courses)
 
 ----------------------------------------------
 <m.e.gorelli@gmail.com> • https://github.com/MarcoGorelli
