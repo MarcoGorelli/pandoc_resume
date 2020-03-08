@@ -21,7 +21,7 @@ Experience
 
 **Data Scientist at Samsung R&D Institute UK**; Nov18 - now
 
-Improved accuracy of forecasts with better modelling, better feature engineering, and better feature selection. Set up continuous integration pipeline, wrote full suite of unit tests and automated documentation. Debugged Python and C++ code, allowing for Python ML model to be reliably deployed to wearable. Gave multiple presentations at internal machine learning reading group.
+Improved accuracy/interpretability/maintanability of forecasting models. Set up continuous integration pipeline, wrote full suite of unit tests and automated documentation. Debugged Python and C++ code, allowing for Python ML model to be reliably deployed to wearable.
 
 **Data Scientist at Sedex**; Jun18 - Nov18
 
@@ -32,6 +32,7 @@ Improved accuracy of forecasts with better modelling, better feature engineering
 Open source
 -----------
 pandas
+:   Member of pandas-dev/pandas-triage team
 :   Added `DataFrame.to_markdown` (#30350) and other enhancements
 :   Fixed bugs in `groupby.apply` (#31456), `DataFrame.explode` (#28010),  \
     `pandas.Categorical` (#28300, #32079, #27932), and more
