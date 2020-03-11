@@ -4,39 +4,49 @@ Marco Edward Gorelli
 Education
 ---------
 
-2016-2017
-:   **MRes, Mathematics of Planet Earth**; Imperial
-    College London & University of Reading; _Distinction_
+**MRes, Mathematics of Planet Earth**; 2016-2017
 
-2015-2016
-:   **MSc, Mathematics and Foundations of Computer Science**;
-    University of Oxford; _67.6_
+Imperial College London & University of Reading; _Distinction_;
 
-2011-2015
-:   **BSc, Mathematics with Professional Practice**;
-    Brunel University London; _First Class Honours_
+**MSc, Mathematics and Foundations of Computer Science**; 2015-2016
+
+University of Oxford; _67.6_
+
+**BSc, Mathematics with Professional Practice**; 2011-2015
+
+Brunel University London; _First Class Honours_
 
 Experience
 ----------
 
 **Data Scientist at Samsung R&D Institute UK**; Nov18 - now
 
-Improved accuracy/interpretability/maintanability of forecasting models. Set up continuous integration pipeline, wrote full suite of unit tests and automated documentation. Debugged Python and C++ code, allowing for Python ML model to be reliably deployed to wearable.
+* Improved accuracy/interpretability/maintanability of forecasting models (_Prophet_, _statsmodels_, _Jupyter Lab_, _CircleCI_, _pre-commit_, _Google Cloud Storage_)
+
+* Deployed end-to-end anomaly detection model including tests, automated documentation, static type-checking (_pytest_, _sphinx_, _MongoDB_, _PySpark_, _AWS EMR+S3_, _Docker_, _mypy_)
+
+* Debugged Python and C++ code, allowing for Python ML model to be reliably deployed to wearable (_Tizen Studio_, _opencv_, _sciki-learn_, _pandas_)
 
 **Data Scientist at Sedex**; Jun18 - Nov18
 
+* Produced interactive dashboards and performed analytics on survey data (_Tableau_, _PostgreSQL_)
+
 **Data Scientist at Sensium**; Jan18 - May18
+
+* Rewrote internal visualisation/reporting tool from Matlab to Python (_PyQt_, _reportlab_, _matplotlib_)
 
 **Risk Analyst Intern at General Electric Capital International**; Jun13 - Jun14;
 
-Open source
------------
-pandas
-:   Member of pandas-dev/pandas-triage team
-:   Added `DataFrame.to_markdown` (#30350) and other enhancements
-:   Fixed bugs in `groupby.apply` (#31456), `DataFrame.explode` (#28010),  \
-    `pandas.Categorical` (#28300, #32079, #27932), and more
-:   Triaged issues and reviewed pull requests, helping foster/mentor the community
+Open source (pandas)
+--------------------
+
+* Member of pandas-dev/pandas-triage team
+
+* Added `DataFrame.to_markdown` (#30350) and other enhancements
+
+* Fixed bugs in `groupby.apply` (#31456), `DataFrame.explode` (#28010), `pandas.Categorical` (#28300, #32079, #27932), and more
+
+* Triaged issues and reviewed pull requests, helping foster/mentor the community
 
 Awards
 ------
@@ -45,18 +55,11 @@ Awards
 
 * During BSc: Foster Award for "exceptional mathematical ability", Level2 Award for highest grades
 
-Coursera
---------
-
-* Applied Data Science with Python Specialization (5 courses)
-
-* Deep Learning Specialization (5 courses)
-
 Kaggle
 ------
 
-* 2019 Data Science Bowl: top 11% (time series, tabular data)
-* Google QUEST Q&A Labeling: top 13% (NLP)
+* 2019 Data Science Bowl: top 11% (time series, tabular data, _LightGBM_)
+* Google QUEST Q&A Labeling: top 13% (NLP, _tensorflow_, _BERT_)
 
 ----------------------------------------------
 <m.e.gorelli@gmail.com> • https://github.com/MarcoGorelli
