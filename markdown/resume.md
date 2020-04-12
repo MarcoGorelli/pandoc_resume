@@ -46,13 +46,13 @@ Open source (pandas)
 
 * Fixed bugs in `groupby.apply` (#31456), `groupby.agg` (#32040), `groupby.nunique` (#32175), `explode` (#28010), `Categorical` (#28300, #32079, #27932), and more - to view one of these on GitHub, visit e.g. <https://github.com/pandas-dev/pandas/pull/30350>
 
-Other
------
+Other achievements
+------------------
 * Passed "Advanced Software Engineering Test (C++)" at Samsung (£500 reward)
 * During BSc: Foster Award for "exceptional mathematical ability", Level2 Award for highest grades
 * Kaggle: 2019 Data Science Bowl: top 11% (time series, tabular data, _LightGBM_); Google QUEST Q&A Labeling: top 13% (NLP, _tensorflow_, _keras_, _BERT_)
 * Coursera: "Deep Learning Specialization", "Applied Data Science with Python Specialization"
-* PyData London Meetup assistant organiser
+* Holder of Tutoring Standards' Professional Tutoring Certificate
 
 ----------------------------------------------
 <m.e.gorelli@gmail.com> • <https://github.com/MarcoGorelli>
