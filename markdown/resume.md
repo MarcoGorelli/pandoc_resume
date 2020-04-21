@@ -4,28 +4,22 @@ Marco Edward Gorelli
 Education
 ---------
 
-**MRes, Mathematics of Planet Earth**; 2016-2017
+**MRes, Mathematics of Planet Earth**; 2016-2017; Imperial College & University of Reading
 
-Imperial College London & University of Reading; _Distinction_
+**MSc, Mathematics and Foundations of Computer Science**; 2015-2016; University of Oxford
 
-**MSc, Mathematics and Foundations of Computer Science**; 2015-2016
-
-University of Oxford; _67.6_
-
-**BSc, Mathematics with Professional Practice**; 2011-2015
-
-Brunel University London; _First Class Honours_
+**BSc, Mathematics with Professional Practice**; 2011-2015; Brunel University London
 
 Experience
 ----------
 
 **Data Scientist at Samsung R&D Institute UK**; Nov18 - now
 
-* Improved accuracy/interpretability/maintanability of forecasting models (_Prophet_, _statsmodels_, _Jupyter Lab_, _CircleCI_, _pre-commit_, _Google Cloud Storage_, _wily_, _SHAP_)
+* Improved accuracy/interpretability of forecasting models and maintainability of source code (_Prophet_, _statsmodels_, _Jupyter Lab_, _CircleCI_, _pre-commit_, _Google Cloud Storage_, _wily_, _SHAP_)
 
 * Deployed end-to-end anomaly detection model including tests, automated documentation, static type-checking (_pytest_, _sphinx_, _MongoDB_, _mongomock_, _PySpark_, _AWS EMR+S3_, _Docker_, _mypy_)
 
-* Debugged Python and C++ code, allowing for Python ML model to be reliably deployed to wearable (_Tizen Studio_, _opencv_, _sciki-learn_, _pandas_)
+* Debugged Python and C++ code, allowing for Python ML model to be reliably deployed to wearable (_Tizen Studio_, _opencv_, _scikit-learn_, _pandas_)
 
 **Data Scientist at Sedex**; Jun18 - Nov18
 
@@ -40,7 +34,7 @@ Experience
 Open source (pandas)
 --------------------
 
-* Maintainer (member of pandas-dev/pandas-triage team): issue triage and pull request reviews
+* Maintainer (member of pandas-dev/pandas-triage team) since Jan 2020
 
 * Added new method `DataFrame.to_markdown` (#30350), plus other enhancements
 
