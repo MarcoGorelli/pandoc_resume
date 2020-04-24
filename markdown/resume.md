@@ -15,7 +15,7 @@ Experience
 
 **Data Scientist at Samsung R&D Institute UK**; Nov18 - now
 
-* Improved accuracy/interpretability of forecasting models and maintainability of source code (_Prophet_, _statsmodels_, _Jupyter Lab_, _CircleCI_, _pre-commit_, _Google Cloud Storage_, _wily_, _SHAP_)
+* Improved accuracy/interpretability of hierarchical forecasting models and maintainability of source code (_Prophet_, _statsmodels_, _Jupyter Lab_, _CircleCI_, _pre-commit_, _Google Cloud Storage_, _wily_, _SHAP_)
 
 * Deployed end-to-end anomaly detection model including tests, automated documentation, static type-checking (_pytest_, _sphinx_, _MongoDB_, _mongomock_, _PySpark_, _AWS EMR+S3_, _Docker_, _mypy_)
 
@@ -31,10 +31,12 @@ Experience
 
 **Risk Analyst Intern at General Electric Capital International**; Jun13 - Jun14
 
+* Reporting on data from credit risk agencies (_SAS_)
+
 Open source (pandas)
 --------------------
 
-* Maintainer (member of pandas-dev/pandas-triage team) since Jan 2020
+* Volunteer maintainer (member of pandas-dev/pandas-triage team) since Jan 2020
 
 * Added new method `DataFrame.to_markdown` (#30350), plus other enhancements
 
