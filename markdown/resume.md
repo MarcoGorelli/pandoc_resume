@@ -49,7 +49,7 @@ Experience
 Other achievements
 ------------------
 * During BSc: Foster Award for "exceptional mathematical ability", Level2 Award for highest grades
-* Kaggle: 2019 Data Science Bowl: top 11% (time series, tabular data, _LightGBM_); Google QUEST Q&A Labeling: top 13% (NLP, _tensorflow_, _keras_, _BERT_)
+* Kaggle: 2019 Data Science Bowl: top 11% (time series, tabular data, _LightGBM_); Google QUEST Q&A Labeling: top 13% (NLP, _tensorflow_, _keras_, _BERT_); University of Liverpool - Ion Switching: top 15% (signal processing, WaveNet)
 * Coursera: "Deep Learning Specialization", "Applied Data Science with Python Specialization"
 * Holder of Tutoring Standards' Professional Tutoring Certificate
 
