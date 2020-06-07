@@ -17,7 +17,7 @@ Open source (pandas)
 
 * Added new method [`DataFrame.to_markdown`](https://github.com/pandas-dev/pandas/pull/30350), which was featured in the [v1.0.0 release notes](https://pandas.pydata.org/docs/whatsnew/v1.0.0.html)
 
-* Fixed bugs in [`groupby.apply`](https://github.com/pandas-dev/pandas/pull/31456), [`groupby.agg`](https://github.com/pandas-dev/pandas/pull/32040), [`groupby.nunique`](https://github.com/pandas-dev/pandas/pull/32175), [`explode`](https://github.com/pandas-dev/pandas/pull/28010), [`Categorical`](https://github.com/pandas-dev/pandas/pull/28300), and [more](https://github.com/pandas-dev/pandas/pulls?q=is%3Apr+is%3Amerged+author%3Amarcogorelli)
+* Fixed bugs in [`groupby.apply`](https://github.com/pandas-dev/pandas/pull/31456), [`groupby.agg`](https://github.com/pandas-dev/pandas/pull/32040), [`groupby.nunique`](https://github.com/pandas-dev/pandas/pull/32175), [`explode`](https://github.com/pandas-dev/pandas/pull/28010), [`Categorical`](https://github.com/pandas-dev/pandas/pull/28300), visualisation, and [more](https://github.com/pandas-dev/pandas/pulls?q=is%3Apr+is%3Amerged+author%3Amarcogorelli)
 
 Experience
 ----------
@@ -28,7 +28,9 @@ Experience
 
 * Improved accuracy/interpretability of hierarchical forecasting models and maintainability of source code (_Prophet_, _statsmodels_, _Jupyter Lab_, _CircleCI_, _pre-commit_, _Google Cloud Storage_, _wily_, _SHAP_)
 
-* Deployed end-to-end anomaly detection model including tests, automated documentation, static type-checking (_pytest_, _sphinx_, _MongoDB_, _mongomock_, _PySpark_, _AWS EMR+S3_, _Docker_, _mypy_)
+* Deployed end-to-end web-scraping dashboard, including tests, automated documentation, static type-checking (_Google Cloud Platform_, _streamlit_, _scrapy_, _ScrapingHub_, _pymongo_)
+
+* Deployed end-to-end anomaly detection module for sensor data (_pytest_, _sphinx_, _MongoDB_, _mongomock_, _PySpark_, _AWS EMR+S3_, _Docker_, _mypy_)
 
 * Debugged Python and C++ code, allowing for Python ML model to be reliably deployed to wearable (_Tizen Studio_, _opencv_, _scikit-learn_, _pandas_)
 
