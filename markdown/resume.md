@@ -17,7 +17,7 @@ Open source (pandas)
 
 * Added new method [`DataFrame.to_markdown`](https://github.com/pandas-dev/pandas/pull/30350), which was featured in the [v1.0.0 release notes](https://pandas.pydata.org/docs/whatsnew/v1.0.0.html)
 
-* Fixed bugs in [`groupby.apply`](https://github.com/pandas-dev/pandas/pull/31456), [`groupby.agg`](https://github.com/pandas-dev/pandas/pull/32040), [`groupby.nunique`](https://github.com/pandas-dev/pandas/pull/32175), [`explode`](https://github.com/pandas-dev/pandas/pull/28010), [`Categorical`](https://github.com/pandas-dev/pandas/pull/28300), visualisation, and [more](https://github.com/pandas-dev/pandas/pulls?q=is%3Apr+is%3Amerged+author%3Amarcogorelli)
+* Fixed dozens of bugs, click [here](https://github.com/pandas-dev/pandas/pulls?q=is%3Apr+is%3Amerged+author%3Amarcogorelli) for full list of merged pull requests
 
 Experience
 ----------
