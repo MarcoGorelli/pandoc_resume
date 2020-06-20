@@ -15,6 +15,8 @@ Open source (pandas)
 
 * [Volunteer maintainer](https://github.com/orgs/pandas-dev/people) since Jan 2020, have reviewed 60+ pull requests
 
+* Hosted pandas sprint at [PyData Festival Amsterdam](https://amsterdam.pydata.org/), where I mentored 15 attendees. Over the day, they submitted 20 pull requests - for many, this was their first ever open source contribution!
+
 * Added new method [`DataFrame.to_markdown`](https://github.com/pandas-dev/pandas/pull/30350), which was featured in the [v1.0.0 release notes](https://pandas.pydata.org/docs/whatsnew/v1.0.0.html)
 
 * Fixed dozens of bugs, click [here](https://github.com/pandas-dev/pandas/pulls?q=is%3Apr+is%3Amerged+author%3Amarcogorelli) for full list of merged pull requests
@@ -38,20 +40,16 @@ Experience
 
 **Data Scientist at Sedex**; Jun18 - Nov18
 
-* Produced interactive dashboards and performed analytics on survey data (_Tableau_, _PostgreSQL_)
-
 **Data Scientist at Sensium**; Jan18 - May18
 
-* Rewrote internal visualisation/reporting tool from Matlab to Python (_PyQt_, _reportlab_, _matplotlib_)
-
 **Risk Analyst Intern at General Electric Capital International**; Jun13 - Jun14
-
-* Reporting on data from credit risk agencies (_SAS_)
 
 Other achievements
 ------------------
 * During BSc: Foster Award for "exceptional mathematical ability", Level2 Award for highest grades
-* Kaggle: 2019 Data Science Bowl: top 11% (time series, tabular data, _LightGBM_); Google QUEST Q&A Labeling: top 13% (NLP, _tensorflow_, _keras_, _BERT_); University of Liverpool - Ion Switching: top 15% (signal processing, WaveNet)
+* Kaggle:
+  - bronze medal for top 8% solution in _Tweet Sentiment Extraction_ competition
+  - reached "expert"-tier in discussions forums
 * Coursera: "Deep Learning Specialization", "Applied Data Science with Python Specialization"
 * Holder of Tutoring Standards' Professional Tutoring Certificate
 
