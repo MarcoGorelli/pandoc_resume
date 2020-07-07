@@ -24,9 +24,7 @@ Experience
 
 **Data Scientist at Samsung R&D Institute UK**; Nov18 - now
 
-* Mentored fellow employees by co-organising internal machine learning reading group: presented on SHAP values, markov chains, and bayesian methods
-
-* Upskilled teammates by delivering internal workshop in `pre-commit` and on how it leads to more productive code reviews;
+* Mentored fellow employees by co-organising internal machine learning reading group: presented on SHAP values, markov chains, and bayesian methods. Upskilled teammates by delivering internal workshop in `pre-commit` and on how it leads to more productive code reviews;
 
 * Improved accuracy/interpretability of hierarchical forecasting models and maintainability of source code (_Prophet_, _statsmodels_, _Jupyter Lab_, _CircleCI_, _pre-commit_, _Google Cloud Storage_, _wily_, _SHAP_)
 
