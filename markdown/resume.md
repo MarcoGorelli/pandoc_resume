@@ -34,8 +34,6 @@ Experience
 
 * Debugged Python and C++ code, allowing for Python ML model to be reliably deployed to wearable (_Tizen Studio_, _opencv_, _scikit-learn_, _pandas_)
 
-* Passed internal "Advanced Software Engineering Test (C++)" (£500 reward)
-
 **Data Scientist at Sedex**; Jun18 - Nov18
 
 **Data Scientist at Sensium**; Jan18 - May18
@@ -49,9 +47,9 @@ Other achievements
     - top 8% solution in _Tweet Sentiment Extraction_
     - top 8% solution in _M5 Forecasting - Uncertainty_
   - Discussions expert
+* Passed Samsung "Advanced Software Engineering Test (C++)" (£500 reward)
 * Coursera: "Deep Learning Specialization", "Applied Data Science with Python Specialization"
 * During BSc: Foster Award for "exceptional mathematical ability", Level2 Award for highest grades
-* Holder of Tutoring Standards' Professional Tutoring Certificate
 
 ----------------------------------------------
 <m.e.gorelli@gmail.com> • <https://github.com/MarcoGorelli>
