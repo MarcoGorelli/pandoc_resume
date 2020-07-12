@@ -13,7 +13,7 @@ Education
 Open source (pandas)
 --------------------
 
-* [Volunteer maintainer](https://github.com/orgs/pandas-dev/people) since Jan 2020, have reviewed 98 pull requests and had 41 pull requests merged
+* [Volunteer maintainer](https://github.com/orgs/pandas-dev/people) since Jan 2020, have reviewed 98 pull requests and had 44 pull requests merged
 
 * Hosted pandas sprint at [PyData Festival Amsterdam](https://amsterdam.pydata.org/), where I mentored 15 attendees (many of whom were first-time-contributors) while they submitted 20+ pull requests
 
