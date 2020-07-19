@@ -10,14 +10,16 @@ Education
 
 **BSc, Mathematics with Professional Practice**; 2011-2015; Brunel University London
 
-Open source (pandas)
---------------------
+Open source
+-----------
 
-* [Volunteer maintainer](https://github.com/orgs/pandas-dev/people) since Jan 2020, have reviewed 98 pull requests and had 44 pull requests merged
+* **pandas**
 
-* Hosted pandas sprint at [PyData Festival Amsterdam](https://amsterdam.pydata.org/), where I mentored 15 attendees (many of whom were first-time-contributors) while they submitted 20+ pull requests
+	* Member of [pandas-triage](https://github.com/orgs/pandas-dev/people) team since Jan 2020, have reviewed 98 pull requests and had 45 pull requests merged
 
-* Added new method [`DataFrame.to_markdown`](https://github.com/pandas-dev/pandas/pull/30350) (which was featured in the [v1.0.0 release notes](https://pandas.pydata.org/docs/whatsnew/v1.0.0.html)), fixed bugs, enchanced documentation, refactored old code, and clarified error reporting
+	* Hosted pandas sprint at [PyData Festival Amsterdam](https://amsterdam.pydata.org/), where I mentored 15 attendees (many of whom were first-time-contributors) while they submitted 20+ pull requests
+
+	* Added new method [`DataFrame.to_markdown`](https://github.com/pandas-dev/pandas/pull/30350) (featured in the [v1.0.0 release notes](https://pandas.pydata.org/docs/whatsnew/v1.0.0.html))
 
 Experience
 ----------
