@@ -16,8 +16,8 @@ Open source
 * **nbQA** ([https://github.com/MarcoGorelli/nbQA](https://github.com/MarcoGorelli/nbQA))
 
  	* I'm the authour of this code quality tool for Jupyter Notebooks
- 	* 100% code coverage
- 	* Have set up continuous integration and deployment via GitHub Actions
+ 	* 100% code and documentation coverage
+ 	* Have set up continuous integration via Azure Pipelines
 
 * **pandas** ([https://github.com/pandas-dev/pandas](https://github.com/pandas-dev/pandas))
 
@@ -25,7 +25,7 @@ Open source
 
 	* Hosted pandas sprint at [PyData Festival Amsterdam](https://amsterdam.pydata.org/), where I mentored 15 attendees
 
-	* Added new method [`DataFrame.to_markdown`](https://github.com/pandas-dev/pandas/pull/30350) (featured in the [v1.0.0 release notes](https://pandas.pydata.org/docs/whatsnew/v1.0.0.html))
+	* Added new method [`DataFrame.to_markdown`](https://github.com/pandas-dev/pandas/pull/30350) (featured in the [v1.0.0 release notes](https://pandas.pydata.org/docs/whatsnew/v1.0.0.html)) and fixed issue [#27453](https://github.com/pandas-dev/pandas/issues/27453) (featured in the [notable v1.1.0 bug fixes](https://pandas.pydata.org/docs/whatsnew/v1.1.0.html#notable-bug-fixes))
 
 Experience
 ----------
