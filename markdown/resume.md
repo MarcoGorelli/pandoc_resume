@@ -13,11 +13,11 @@ Education
 Open source
 -----------
 
-* **nbQA** ([https://github.com/MarcoGorelli/nbQA](https://github.com/MarcoGorelli/nbQA))
+* **nbQA** ([https://github.com/nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA))
 
  	* I'm the authour of this code quality tool for Jupyter Notebooks
- 	* 100% code and documentation coverage
- 	* Have set up continuous integration via Azure Pipelines
+ 	* 100% test and documentation coverage
+ 	* Have set up continuous integration via GitHub Actions
 
 * **pandas** ([https://github.com/pandas-dev/pandas](https://github.com/pandas-dev/pandas))
 
