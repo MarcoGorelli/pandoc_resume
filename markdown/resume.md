@@ -6,9 +6,19 @@ Education
 
 **MRes, Mathematics of Planet Earth**; 2016-2017; Imperial College & University of Reading
 
+Courses: Computational Stochastic Processes (65), Partial Differential Equations (80), Dynamical Systems (84.2), Data and Uncertainty (63.1), Numerical Methods (67.13)
+
+Dissertation: Modelling the cloud and snow surface via KPZ equation (78.6)
+
 **MSc, Mathematics and Foundations of Computer Science**; 2015-2016; University of Oxford
 
+Courses: Machine Learning (64), Categories Proofs and Processes (66), Quantum Computer Science (76), Networks (70), Computational Game Theory (70).
+
+Dissetation: Deductive verification of the s2n HMAC code (65)
+
 **BSc, Mathematics with Professional Practice**; 2011-2015; Brunel University London
+
+Dissertation: The Tutte Polynomial and the Merino-Welsh Conjecture (91)
 
 Open source
 -----------
