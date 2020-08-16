@@ -4,38 +4,43 @@ Marco Edward Gorelli
 Education
 ---------
 
-**MRes, Mathematics of Planet Earth**; 2016-2017; Imperial College & University of Reading
+2016-2017
+:   **MRes, Mathematics of Planet Earth**; 2016-2017; Imperial College & University of Reading; Distinction
 
-Courses: Computational Stochastic Processes (65), Partial Differential Equations (80), Dynamical Systems (84.2), Data and Uncertainty (63.1), Numerical Methods (67.13)
+    Courses: Computational Stochastic Processes (65), Partial Differential Equations (80), Dynamical Systems (84.2), Data and Uncertainty (63.1), Numerical Methods (67.13)
 
-Dissertation: Modelling the cloud and snow surface via KPZ equation (78.6)
+    Dissertation: Modelling the cloud and snow surface via KPZ equation (78.6)
 
-**MSc, Mathematics and Foundations of Computer Science**; 2015-2016; University of Oxford
+2015-2016
+:   **MSc, Mathematics and Foundations of Computer Science**; 2015-2016; University of Oxford
 
-Courses: Machine Learning (64), Categories Proofs and Processes (66), Quantum Computer Science (76), Networks (70), Computational Game Theory (70).
+    Courses: Machine Learning (64), Categories Proofs and Processes (66), Quantum Computer Science (76), Networks (70), Computational Game Theory (70).
 
-Dissetation: Deductive verification of the s2n HMAC code (65)
+    Dissetation: Deductive verification of the s2n HMAC code (65)
 
-**BSc, Mathematics with Professional Practice**; 2011-2015; Brunel University London
+2011-2015
+:   **BSc, Mathematics with Professional Practice**; Brunel University London; First Class Honours
 
-Dissertation: The Tutte Polynomial and the Merino-Welsh Conjecture (91)
+    Dissertation: The Tutte Polynomial and the Merino-Welsh Conjecture (91)
 
 Open source
 -----------
 
-* **nbQA** ([https://github.com/nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA))
+**nbQA**
+:   I'm the authour of this code quality tool for Jupyter Notebooks.
 
- 	* I'm the authour of this code quality tool for Jupyter Notebooks
- 	* 100% test and documentation coverage
- 	* Have set up continuous integration via GitHub Actions
+    100% test and documentation coverage + continuous integration.
 
-* **pandas** ([https://github.com/pandas-dev/pandas](https://github.com/pandas-dev/pandas))
+    Source code: [https://github.com/nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA)
 
-	* Member of _pandas-triage_ team since Jan 2020, have reviewed 98 pull requests and had 45 pull requests merged
+**pandas**
+:   I'm been a member of _pandas-triage_ team since Jan 2020, have reviewed 98 pull requests and had 45 pull requests merged.
 
-	* Hosted pandas sprint at [PyData Festival Amsterdam](https://amsterdam.pydata.org/), where I mentored 15 attendees
-
-	* Added new method [`DataFrame.to_markdown`](https://github.com/pandas-dev/pandas/pull/30350) (featured in the [v1.0.0 release notes](https://pandas.pydata.org/docs/whatsnew/v1.0.0.html)) and fixed issue [#27453](https://github.com/pandas-dev/pandas/issues/27453) (featured in the [notable v1.1.0 bug fixes](https://pandas.pydata.org/docs/whatsnew/v1.1.0.html#notable-bug-fixes))
+    Hosted pandas sprint at [PyData Festival Amsterdam](https://amsterdam.pydata.org/), where I mentored 15 attendees
+  
+    Added new method [`DataFrame.to_markdown`](https://github.com/pandas-dev/pandas/pull/30350) (featured in the [v1.0.0 release notes](https://pandas.pydata.org/docs/whatsnew/v1.0.0.html))
+  
+    Fixed issue [#27453](https://github.com/pandas-dev/pandas/issues/27453) (featured in the [notable v1.1.0 bug fixes](https://pandas.pydata.org/docs/whatsnew/v1.1.0.html#notable-bug-fixes))
 
 Experience
 ----------
