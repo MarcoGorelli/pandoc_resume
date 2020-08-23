@@ -1,6 +1,14 @@
 Marco Edward Gorelli
 ============
 
+----
+
+> Data Scientist\
+> [pandas](https://pandas.pydata.org/about/team.html) maintainer\
+> University of Oxford MSc
+
+----
+
 Education
 ---------
 
@@ -26,6 +34,15 @@ Education
 Open source
 -----------
 
+**pandas**
+:   Contributor since August 2019, maintainer since August 2020.
+
+    Hosted pandas sprint at [PyData Festival Amsterdam](https://amsterdam.pydata.org/), where I mentored 15 attendees
+  
+    Added new method [`DataFrame.to_markdown`](https://github.com/pandas-dev/pandas/pull/30350) (featured in the [v1.0.0 release notes](https://pandas.pydata.org/docs/whatsnew/v1.0.0.html))
+  
+    Fixed issue [#27453](https://github.com/pandas-dev/pandas/issues/27453) (featured in the [notable v1.1.0 bug fixes](https://pandas.pydata.org/docs/whatsnew/v1.1.0.html#notable-bug-fixes))
+
 **nbQA**
 :   I'm the authour of this code quality tool for Jupyter Notebooks.
 
@@ -33,14 +50,8 @@ Open source
 
     Source code: [https://github.com/nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA)
 
-**pandas**
-:   I'm been a member of _pandas-triage_ team since Jan 2020, have reviewed 98 pull requests and had 45 pull requests merged.
-
-    Hosted pandas sprint at [PyData Festival Amsterdam](https://amsterdam.pydata.org/), where I mentored 15 attendees
-  
-    Added new method [`DataFrame.to_markdown`](https://github.com/pandas-dev/pandas/pull/30350) (featured in the [v1.0.0 release notes](https://pandas.pydata.org/docs/whatsnew/v1.0.0.html))
-  
-    Fixed issue [#27453](https://github.com/pandas-dev/pandas/issues/27453) (featured in the [notable v1.1.0 bug fixes](https://pandas.pydata.org/docs/whatsnew/v1.1.0.html#notable-bug-fixes))
+**other**
+:   Minor code contributions to `matplotlib`, `pytest`, `featuretools`, and `interrogate`.
 
 Experience
 ----------
@@ -53,8 +64,6 @@ Experience
 
 * Deployed end-to-end web-scraping dashboard and anomaly detection module for sensor data to web apps - included work on AWS, Google Cloud, CircleCI, MongoDB, PySpark
 
-* Passed internal _Advanced Software Engineering Test (C++)_ (£500 reward)
-
 **Data Scientist at Sedex**; Jun18 - Nov18
 
 **Data Scientist at Sensium**; Jan18 - May18
@@ -65,6 +74,7 @@ Experience
 
 Achievements
 ------------
+* Passed Samsung's _Advanced Software Engineering Test (C++)_ (£500 reward)
 * Kaggle:
   - Competitions expert:
     - top 8% in _Tweet Sentiment Extraction_ : PyTorch RoBERTa NLP model
