@@ -35,34 +35,44 @@ Open source
 -----------
 
 **pandas**
-:   Contributor since August 2019, maintainer since August 2020.
+:   Python library providing powerful data structures for data analysis, time series, and statistics; ~20 million downloads per month
 
-    Hosted pandas sprint at [PyData Festival Amsterdam](https://amsterdam.pydata.org/), where I mentored 15 attendees
+    Started contributing in August 2019, became triager in January 2020, and then maintainer since August 2020.
+
+    Hosted pandas sprint at [PyData Festival Amsterdam](https://amsterdam.pydata.org/), where I mentored 15 attendees who submitted 20 pull requests
   
     Added new method [`DataFrame.to_markdown`](https://github.com/pandas-dev/pandas/pull/30350) (featured in the [v1.0.0 release notes](https://pandas.pydata.org/docs/whatsnew/v1.0.0.html))
   
     Fixed issue [#27453](https://github.com/pandas-dev/pandas/issues/27453) (featured in the [notable v1.1.0 bug fixes](https://pandas.pydata.org/docs/whatsnew/v1.1.0.html#notable-bug-fixes))
 
 **nbQA**
-:   I'm the authour of this code quality tool for Jupyter Notebooks.
+:   Code quality for Jupyter notebooks.
+
+    I'm the authour of this code quality tool for Jupyter Notebooks.
 
     100% test and documentation coverage + continuous integration.
 
     Source code: [https://github.com/nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA)
 
 **other**
-:   Minor code contributions to `matplotlib`, `pytest`, `featuretools`, and `interrogate`.
+:   Code contributions to `matplotlib`, `pytest`, `featuretools`, and `interrogate`.
 
 Experience
 ----------
 
 **Data Scientist at Samsung R&D Institute UK**; Nov18 - now
 
-* Mentored fellow employees by co-organising workshops and reading groups on SHAP values, markov chains, bayesian methods, and `pre-commit`
-
 * Improved accuracy/interpretability of hierarchical forecasting models by 5 percentage points using simpler models and more careful feature engineering
 
 * Deployed end-to-end web-scraping dashboard and anomaly detection module for sensor data to web apps - included work on AWS, Google Cloud, CircleCI, MongoDB, PySpark
+
+* Mentoring: gave workshops to follow employees on:
+
+  * easier code review via pre-commit
+  * test-driven development
+  * Bayesian methods
+  * Markov chains for denoising images
+  * SHAP values for ML model interpretability
 
 **Data Scientist at Sedex**; Jun18 - Nov18
 
