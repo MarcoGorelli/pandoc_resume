@@ -35,18 +35,18 @@ Open source
 -----------
 
 **pandas**
-:   Python library providing powerful data structures for data analysis, time series, and statistics; ~20 million downloads per month
+:   Python library providing powerful data structures for data analysis, time series, and statistics; 416 million downloads
 
-    Started contributing in August 2019, became triager in January 2020, and then maintainer since August 2020.
+    Maintainer, core contributor.
 
-    Hosted pandas sprint at [PyData Festival Amsterdam](https://amsterdam.pydata.org/), where I mentored 15 attendees who submitted 20 pull requests
-  
     Added new method [`DataFrame.to_markdown`](https://github.com/pandas-dev/pandas/pull/30350) (featured in the [v1.0.0 release notes](https://pandas.pydata.org/docs/whatsnew/v1.0.0.html))
   
     Fixed issue [#27453](https://github.com/pandas-dev/pandas/issues/27453) (featured in the [notable v1.1.0 bug fixes](https://pandas.pydata.org/docs/whatsnew/v1.1.0.html#notable-bug-fixes))
 
+    Hosted pandas sprint at [PyData Festival Amsterdam](https://amsterdam.pydata.org/), where I mentored 15 attendees who submitted 20 pull requests
+  
 **nbQA**
-:   Code quality for Jupyter notebooks.
+:   Code quality tool for Jupyter notebooks, 10K downloads.
 
     I'm the authour of this code quality tool for Jupyter Notebooks.
 
@@ -76,11 +76,17 @@ Experience
 
 **Data Scientist at Sedex**; Jun18 - Nov18
 
+* Migrated dashboards from Jaspersoft to Tableau
+
 **Data Scientist at Sensium**; Jan18 - May18
+
+* Rewrote internal MATLAB visualisation tool in Python, "exceeding expecations"
 
 **Maths tutor at Oxford Exclusif Tutorial Agency**; Oct18 - Jan18
 
-**Risk Analyst Intern at General Electric Capital International**; Jun13 - Jun14
+**(internship) Risk Analyst at General Electric Capital International**; Jun13 - Jun14
+
+* Wrote SAS scripts to automate user-acceptance testing and to analyse data from credit reference agencies
 
 Achievements
 ------------
