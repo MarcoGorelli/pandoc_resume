@@ -4,7 +4,7 @@ Marco Edward Gorelli
 ----
 
 > Data Scientist\
-> [pandas](https://pandas.pydata.org/about/team.html) maintainer\
+> [pandas](https://pandas.pydata.org/about/team.html) maintainer / core contributor\
 > University of Oxford MSc
 
 ----
@@ -34,19 +34,17 @@ Education
 Open source
 -----------
 
-**pandas**
-:   Python library providing powerful data structures for data analysis, time series, and statistics; 416 million downloads
+**maintainer / core contributor at pandas**; Aug20 - now
 
-    Maintainer, core contributor.
+Pandas is a popular Python library providing powerful data structures for data analysis, time series, and statistics. I've been contributing bug fixes and enhancements since August 2019, and in August 2020 was invited to join the core team. Some highlights of my activity:
 
-    Added new method [`DataFrame.to_markdown`](https://github.com/pandas-dev/pandas/pull/30350) (featured in the [v1.0.0 release notes](https://pandas.pydata.org/docs/whatsnew/v1.0.0.html))
+* Added new method [`DataFrame.to_markdown`](https://github.com/pandas-dev/pandas/pull/30350) (featured in the [v1.0.0 release notes](https://pandas.pydata.org/docs/whatsnew/v1.0.0.html))
+* Fixed issue [#27453](https://github.com/pandas-dev/pandas/issues/27453) (featured in the [notable v1.1.0 bug fixes](https://pandas.pydata.org/docs/whatsnew/v1.1.0.html#notable-bug-fixes))
+* Hosted pandas sprint at [PyData Festival Amsterdam](https://amsterdam.pydata.org/), where I mentored 15 attendees who submitted 20 pull requests
   
-    Fixed issue [#27453](https://github.com/pandas-dev/pandas/issues/27453) (featured in the [notable v1.1.0 bug fixes](https://pandas.pydata.org/docs/whatsnew/v1.1.0.html#notable-bug-fixes))
+**nbQA**; Jul20 - now
 
-    Hosted pandas sprint at [PyData Festival Amsterdam](https://amsterdam.pydata.org/), where I mentored 15 attendees who submitted 20 pull requests
-  
-**nbQA**
-:   Code quality tool for Jupyter notebooks, 10K downloads.
+Code quality tool for Jupyter notebooks which I wrote. Currently
 
     I'm the authour of this code quality tool for Jupyter Notebooks.
 
