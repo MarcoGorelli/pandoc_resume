@@ -52,7 +52,7 @@ Experience
   * Debugging and maintaining PySpark data engineering pipeline, finding+fixing numerous inconsistencies in the process and thus improving reliability
   * Writing anomaly detection module which saved data to MongoDB, thus providing project's end-users with actionable insights
 
-* Wearable application: coworker had written Python ML model, which co-worker had implemented in C++. However, I was told that it did not work reliably once deployed. Hence, I:
+* Wearable application: co-worker had written Python ML model, which another co-worker had implemented in C++. However, I was told that it did not work reliably once deployed. Hence, I:
   * Debugged the Python and C++ code, fixing numerous inconsistencies which I then wrote a test-suite for
   * Re-defined evaluation metric, aligning model accuracy with real-world accuracy (previously the evaluation metric gave overly optimistic results)
 
