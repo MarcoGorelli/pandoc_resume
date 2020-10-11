@@ -6,7 +6,8 @@ Marco Edward Gorelli
 > Data Scientist\
 > University of Oxford MSc\
 > [pandas](https://pandas.pydata.org/about/team.html) maintainer / core contributor\
-> Kaggle competitions expert
+> Kaggle competitions expert \
+> Expertise in Python and git
 
 ----
 
