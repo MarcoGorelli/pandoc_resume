@@ -5,9 +5,9 @@ Marco Edward Gorelli
 
 > Data Scientist\
 > University of Oxford MSc\
-> [pandas](https://pandas.pydata.org/about/team.html) maintainer / core contributor\
+> [pandas](https://pandas.pydata.org/about/team.html) maintainer\
 > Kaggle competitions expert \
-> Expertise in Python and git
+> Prolific open source software contributor
 
 ----
 
@@ -17,21 +17,21 @@ Education
 2016-2017
 :   **MRes, Mathematics of Planet Earth**; 2016-2017; Imperial College & University of Reading; Distinction
 
-    Courses: Computational Stochastic Processes, Partial Differential Equations (80), Dynamical Systems (84.2), Data and Uncertainty (63.1), Numerical Methods (67.13)
+    Courses: Computational Stochastic Processes, Partial Differential Equations , Dynamical Systems, Data and Uncertainty, Numerical Methods
 
-    Dissertation: Modelling the cloud and snow surface via KPZ equation (78.6)
+    Dissertation: Modelling the cloud and snow surface via KPZ equation
 
 2015-2016
 :   **MSc, Mathematics and Foundations of Computer Science**; 2015-2016; University of Oxford
 
-    Courses: Machine Learning (64), Categories Proofs and Processes (66), Quantum Computer Science (76), Networks (70), Computational Game Theory (70)
+    Courses: Machine Learning, Categories Proofs and Processes, Quantum Computer Science, Networks, Computational Game Theory
 
-    Dissertation: Deductive verification of the s2n HMAC code (65)
+    Dissertation: Deductive verification of the s2n HMAC code
 
 2011-2015
 :   **BSc, Mathematics with Professional Practice**; Brunel University London; First Class Honours
 
-    Dissertation: The Tutte Polynomial and the Merino-Welsh Conjecture (91)
+    Dissertation: The Tutte Polynomial and the Merino-Welsh Conjecture
 
     Foster Award for "exceptional mathematical ability", Level2 Award for highest grades
 
@@ -65,6 +65,7 @@ Experience
   * Markov chains for denoising images
   * SHAP values for ML model interpretability
   * static typing in Python
+  * using `git` without getting angry
 
 * Passed Samsung's _Advanced Software Engineering Test (C++)_ (£500 reward)
 
@@ -90,7 +91,7 @@ Pandas is data wrangling platform for Python widely adopted in the scientific co
   
 **nbQA**; Jul20 - now
 
-Open source code quality tool for Jupyter notebooks which I wrote. It's currently download more than 600 times per month, most notably by probabilistic programming framework [PyMC3](https://github.com/pymc-devs/pymc3) which uses it as part of its continuous integration process. Source code: [https://github.com/nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA).
+Open source code quality tool for Jupyter notebooks which I wrote. It's currently used by several open source projects (PyMC3, pyhf, pandas-profiling, and more) and was featured on the podcast Python Bytes. Source code: [https://github.com/nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA).
 
 Other projects
 --------------
